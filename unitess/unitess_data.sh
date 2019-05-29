@@ -3,8 +3,6 @@
 #id
 SENSOR_ID=$1
 
-#interval oprosa datchika
-INTERVAL=$2
 
 #server
 SERVER=10.12.1.119
